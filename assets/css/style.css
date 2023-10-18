@@ -698,6 +698,7 @@ i.menu-mobile {
 .menu-nav-active #header {
     left: 0;
 }
+
 /* Scroll */
 
 *::-webkit-scrollbar {
